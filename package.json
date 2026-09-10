@@ -17,6 +17,7 @@
     "@prisma/adapter-pg": "latest",
     "@prisma/client": "latest",
     "better-auth": "latest",
+    "dotenv": "latest",
     "next": "latest",
     "pg": "latest",
     "react": "latest",
